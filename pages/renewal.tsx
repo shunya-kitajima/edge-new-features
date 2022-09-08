@@ -5,7 +5,7 @@ const Renewal: NextPage = () => {
   return (
     <div className="flex min-h-screen flex-col items-center justify-center font-mono text-gray-800">
       <p className="my-3 text-xl">Concept B</p>
-      <CubeTransparentIcon className="text-pink-500" />
+      <CubeTransparentIcon className="h-12 w-12 text-pink-500" />
     </div>
   )
 }
